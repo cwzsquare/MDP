@@ -30,7 +30,7 @@
 **附录：**
 
 附录0：ML相关链接
-https://cwzsquare.work/index.php/apps/sharingpath/cwzsquare/PUBLIC/machine-learning_lecture%20for%20the%20last%20year/Lec13.pdf
+https://github.com/cwzsquare/MDP/blob/master/Lec13.pdf
 
 附录A：贝尔曼方程（Bellman Equation）
 $$
